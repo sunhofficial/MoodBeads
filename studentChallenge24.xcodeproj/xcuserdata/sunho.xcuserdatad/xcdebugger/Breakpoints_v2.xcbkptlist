@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "53899B22-72F8-4D2F-924D-C02E845812E4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA31B92F-033A-4491-9135-1720A142C57A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "studentChallenge24/DiaryView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "832E2A5F-CC1F-4B7A-9D8B-50CAD6E9F59B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "studentChallenge24/MotionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "deleteDetect(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56872988-6A5B-4D9C-8D37-818CC036BE96"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "studentChallenge24/DiaryView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "deleteDiary()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56872988-6A5B-4D9C-8D37-818CC036BE96 - ed7759890b237f8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.DiaryView.deleteDiary() -&gt; ()"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/DiaryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "56872988-6A5B-4D9C-8D37-818CC036BE96 - 68952fd29b8c65ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (studentChallenge24.Feelinginfo) -&gt; Swift.Bool in studentChallenge24.DiaryView.deleteDiary() -&gt; ()"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/DiaryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "154C9793-A3EF-4B85-A980-1E9E095E54A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "studentChallenge24/DiaryView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "DiaryView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "154C9793-A3EF-4B85-A980-1E9E095E54A8 - ee43e6ed2abf4413"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.DiaryView.isErased.getter : Swift.Bool"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/DiaryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "154C9793-A3EF-4B85-A980-1E9E095E54A8 - 5381cfc775e89ace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.DiaryView.isErased.setter : Swift.Bool"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/DiaryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "154C9793-A3EF-4B85-A980-1E9E095E54A8 - 284baf19701f98c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.DiaryView.isErased.modify : Swift.Bool"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/DiaryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "154C9793-A3EF-4B85-A980-1E9E095E54A8 - 69278817baf845b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.DiaryView.isErased.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "154C9793-A3EF-4B85-A980-1E9E095E54A8 - 213900b381ec6dd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.DiaryView.$isErased.getter : SwiftUI.Binding&lt;Swift.Bool&gt;"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/DiaryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "154C9793-A3EF-4B85-A980-1E9E095E54A8 - 5381cfc775e89bd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.DiaryView.isErased.setter : Swift.Bool"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/DiaryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "154C9793-A3EF-4B85-A980-1E9E095E54A8 - 284baf19701f99de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.DiaryView.isErased.modify : Swift.Bool"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/DiaryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "534FAF9D-47B1-4F2F-A7F5-EB8C784AE7C0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "studentChallenge24/DiaryView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "deleteDiary()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "534FAF9D-47B1-4F2F-A7F5-EB8C784AE7C0 - ed7759890b237e85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.DiaryView.deleteDiary() -&gt; ()"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/DiaryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "688">
+               </Location>
+               <Location
+                  uuid = "534FAF9D-47B1-4F2F-A7F5-EB8C784AE7C0 - ed7759890b237fac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.DiaryView.deleteDiary() -&gt; ()"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/DiaryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A529B011-0BFB-4E25-976B-DDDA0B94B875"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "studentChallenge24/DiaryView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "deleteDiary()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A529B011-0BFB-4E25-976B-DDDA0B94B875 - ed7759890b237e5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.DiaryView.deleteDiary() -&gt; ()"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/DiaryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "A529B011-0BFB-4E25-976B-DDDA0B94B875 - ed7759890b237f62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.DiaryView.deleteDiary() -&gt; ()"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/DiaryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "872">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35A6335C-7926-4BC7-A9B0-56B84ACFBBEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "studentChallenge24/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "35A6335C-7926-4BC7-A9B0-56B84ACFBBEF - f5c00917730d80d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Foundation.Notification) -&gt; () in closure #2 () -&gt; () in studentChallenge24.ContentView.body.getter : some"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "35A6335C-7926-4BC7-A9B0-56B84ACFBBEF - f5c00917730d81ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Foundation.Notification) -&gt; () in closure #2 () -&gt; () in studentChallenge24.ContentView.body.getter : some"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4553BEB6-B9A6-4772-B7AC-D1E302268E3F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "studentChallenge24/LetterView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4553BEB6-B9A6-4772-B7AC-D1E302268E3F - fbfee630ee70d156"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in studentChallenge24.LetterView.body.getter : some"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/LetterView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "960">
+               </Location>
+               <Location
+                  uuid = "4553BEB6-B9A6-4772-B7AC-D1E302268E3F - 8483aa796dfa6cc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in studentChallenge24.LetterView.body.getter : some"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/LetterView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "984">
+               </Location>
+               <Location
+                  uuid = "4553BEB6-B9A6-4772-B7AC-D1E302268E3F - 46bd4b615d8d4d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.onSubmit(of: SwiftUI.SubmitTriggers, _: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in studentChallenge24.LetterView.body.getter : some"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/LetterView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1108">
+               </Location>
+               <Location
+                  uuid = "4553BEB6-B9A6-4772-B7AC-D1E302268E3F - 81b2bbad67c864c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.onSubmit(of: SwiftUI.SubmitTriggers, _: () -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in studentChallenge24.LetterView.body.getter : some"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/LetterView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "984">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A73CB37-FB50-4BC5-9A75-48FFD329B555"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "studentChallenge24/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8A73CB37-FB50-4BC5-9A75-48FFD329B555 - c793e71e621f2bd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt;&gt;)&gt; in studentChallenge24.ContentView.body.getter : some"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "4080">
+               </Location>
+               <Location
+                  uuid = "8A73CB37-FB50-4BC5-9A75-48FFD329B555 - c793e71e621f2b3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt;&gt;)&gt; in studentChallenge24.ContentView.body.getter : some"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "4812">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DD04138-B582-4F8B-BC99-8F974A6AED96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "studentChallenge24/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "isFirstAccessToday"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1DD04138-B582-4F8B-BC99-8F974A6AED96 - 36239aacba35a21a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.ContentView.isFirstAccessToday.getter : Swift.Bool"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "1DD04138-B582-4F8B-BC99-8F974A6AED96 - 36239aacba35a303"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "studentChallenge24.ContentView.isFirstAccessToday.getter : Swift.Bool"
+                  moduleName = "studentChallenge24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%8D%8EProject/studentChallenge24/studentChallenge24/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A14FD3DE-E0AB-45CA-9704-A40513E381D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "studentChallenge24/LetterView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "450DB2F0-D494-4BA0-BA5C-5CA70306AE22"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "studentChallenge24/LetterView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C5565C4-E7AB-4E5E-95B3-A15887080B23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "studentChallenge24/LetterView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

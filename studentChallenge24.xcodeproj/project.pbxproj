@@ -1,0 +1,385 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C70BAC5F2B87B2F700697706 /* medtation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C70BAC5E2B87B2F700697706 /* medtation.mp3 */; };
+		C70BAC612B87BD8000697706 /* LetterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70BAC602B87BD8000697706 /* LetterView.swift */; };
+		C70D36A62B82117A002BB103 /* AddFeelingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70D36A52B82117A002BB103 /* AddFeelingView.swift */; };
+		C70E09E42B80C7C500E0CBDC /* studentChallenge24App.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70E09E32B80C7C500E0CBDC /* studentChallenge24App.swift */; };
+		C70E09E62B80C7C500E0CBDC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70E09E52B80C7C500E0CBDC /* ContentView.swift */; };
+		C70E09E82B80C7C700E0CBDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C70E09E72B80C7C700E0CBDC /* Assets.xcassets */; };
+		C70E09EB2B80C7C700E0CBDC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C70E09EA2B80C7C700E0CBDC /* Preview Assets.xcassets */; };
+		C70E09F42B80F3AC00E0CBDC /* SpriteScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70E09F32B80F3AC00E0CBDC /* SpriteScene.swift */; };
+		C70E09F62B80F3D300E0CBDC /* MotionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70E09F52B80F3D300E0CBDC /* MotionManager.swift */; };
+		C73936C12B864C5E004D5A68 /* DiaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C73936C02B864C5E004D5A68 /* DiaryView.swift */; };
+		C73936C32B8656A0004D5A68 /* DiaryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C73936C22B8656A0004D5A68 /* DiaryModel.swift */; };
+		C73936C52B866346004D5A68 /* Date+.swift in Sources */ = {isa = PBXBuildFile; fileRef = C73936C42B866346004D5A68 /* Date+.swift */; };
+		C7F405A62B84A8A100803681 /* Feelinginfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F405A52B84A8A100803681 /* Feelinginfo.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C70BAC5E2B87B2F700697706 /* medtation.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = medtation.mp3; sourceTree = "<group>"; };
+		C70BAC602B87BD8000697706 /* LetterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterView.swift; sourceTree = "<group>"; };
+		C70D36A52B82117A002BB103 /* AddFeelingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFeelingView.swift; sourceTree = "<group>"; };
+		C70E09E02B80C7C500E0CBDC /* studentChallenge24.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = studentChallenge24.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C70E09E32B80C7C500E0CBDC /* studentChallenge24App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = studentChallenge24App.swift; sourceTree = "<group>"; };
+		C70E09E52B80C7C500E0CBDC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C70E09E72B80C7C700E0CBDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C70E09EA2B80C7C700E0CBDC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C70E09F32B80F3AC00E0CBDC /* SpriteScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpriteScene.swift; sourceTree = "<group>"; };
+		C70E09F52B80F3D300E0CBDC /* MotionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionManager.swift; sourceTree = "<group>"; };
+		C73936C02B864C5E004D5A68 /* DiaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryView.swift; sourceTree = "<group>"; };
+		C73936C22B8656A0004D5A68 /* DiaryModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryModel.swift; sourceTree = "<group>"; };
+		C73936C42B866346004D5A68 /* Date+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+.swift"; sourceTree = "<group>"; };
+		C7F405A52B84A8A100803681 /* Feelinginfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feelinginfo.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C70E09DD2B80C7C500E0CBDC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C70E09D72B80C7C500E0CBDC = {
+			isa = PBXGroup;
+			children = (
+				C70E09E22B80C7C500E0CBDC /* studentChallenge24 */,
+				C70E09E12B80C7C500E0CBDC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C70E09E12B80C7C500E0CBDC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C70E09E02B80C7C500E0CBDC /* studentChallenge24.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C70E09E22B80C7C500E0CBDC /* studentChallenge24 */ = {
+			isa = PBXGroup;
+			children = (
+				C70E09E32B80C7C500E0CBDC /* studentChallenge24App.swift */,
+				C70E09E52B80C7C500E0CBDC /* ContentView.swift */,
+				C73936C02B864C5E004D5A68 /* DiaryView.swift */,
+				C73936C22B8656A0004D5A68 /* DiaryModel.swift */,
+				C70D36A52B82117A002BB103 /* AddFeelingView.swift */,
+				C70E09F32B80F3AC00E0CBDC /* SpriteScene.swift */,
+				C70E09F52B80F3D300E0CBDC /* MotionManager.swift */,
+				C7F405A52B84A8A100803681 /* Feelinginfo.swift */,
+				C70BAC602B87BD8000697706 /* LetterView.swift */,
+				C73936C42B866346004D5A68 /* Date+.swift */,
+				C70E09E72B80C7C700E0CBDC /* Assets.xcassets */,
+				C70BAC5E2B87B2F700697706 /* medtation.mp3 */,
+				C70E09E92B80C7C700E0CBDC /* Preview Content */,
+			);
+			path = studentChallenge24;
+			sourceTree = "<group>";
+		};
+		C70E09E92B80C7C700E0CBDC /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				C70E09EA2B80C7C700E0CBDC /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C70E09DF2B80C7C500E0CBDC /* studentChallenge24 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C70E09EE2B80C7C700E0CBDC /* Build configuration list for PBXNativeTarget "studentChallenge24" */;
+			buildPhases = (
+				C70E09DC2B80C7C500E0CBDC /* Sources */,
+				C70E09DD2B80C7C500E0CBDC /* Frameworks */,
+				C70E09DE2B80C7C500E0CBDC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = studentChallenge24;
+			productName = studentChallenge24;
+			productReference = C70E09E02B80C7C500E0CBDC /* studentChallenge24.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C70E09D82B80C7C500E0CBDC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					C70E09DF2B80C7C500E0CBDC = {
+						CreatedOnToolsVersion = 15.2;
+					};
+				};
+			};
+			buildConfigurationList = C70E09DB2B80C7C500E0CBDC /* Build configuration list for PBXProject "studentChallenge24" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C70E09D72B80C7C500E0CBDC;
+			productRefGroup = C70E09E12B80C7C500E0CBDC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C70E09DF2B80C7C500E0CBDC /* studentChallenge24 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C70E09DE2B80C7C500E0CBDC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C70E09EB2B80C7C700E0CBDC /* Preview Assets.xcassets in Resources */,
+				C70E09E82B80C7C700E0CBDC /* Assets.xcassets in Resources */,
+				C70BAC5F2B87B2F700697706 /* medtation.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C70E09DC2B80C7C500E0CBDC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C73936C52B866346004D5A68 /* Date+.swift in Sources */,
+				C7F405A62B84A8A100803681 /* Feelinginfo.swift in Sources */,
+				C70E09E62B80C7C500E0CBDC /* ContentView.swift in Sources */,
+				C73936C12B864C5E004D5A68 /* DiaryView.swift in Sources */,
+				C70BAC612B87BD8000697706 /* LetterView.swift in Sources */,
+				C70E09E42B80C7C500E0CBDC /* studentChallenge24App.swift in Sources */,
+				C70D36A62B82117A002BB103 /* AddFeelingView.swift in Sources */,
+				C73936C32B8656A0004D5A68 /* DiaryModel.swift in Sources */,
+				C70E09F42B80F3AC00E0CBDC /* SpriteScene.swift in Sources */,
+				C70E09F62B80F3D300E0CBDC /* MotionManager.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		C70E09EC2B80C7C700E0CBDC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C70E09ED2B80C7C700E0CBDC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C70E09EF2B80C7C700E0CBDC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"studentChallenge24/Preview Content\"";
+				DEVELOPMENT_TEAM = NG2NLR2Z86;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Sunho.studentChallenge24;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C70E09F02B80C7C700E0CBDC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"studentChallenge24/Preview Content\"";
+				DEVELOPMENT_TEAM = NG2NLR2Z86;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Sunho.studentChallenge24;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C70E09DB2B80C7C500E0CBDC /* Build configuration list for PBXProject "studentChallenge24" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C70E09EC2B80C7C700E0CBDC /* Debug */,
+				C70E09ED2B80C7C700E0CBDC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C70E09EE2B80C7C700E0CBDC /* Build configuration list for PBXNativeTarget "studentChallenge24" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C70E09EF2B80C7C700E0CBDC /* Debug */,
+				C70E09F02B80C7C700E0CBDC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C70E09D82B80C7C500E0CBDC /* Project object */;
+}
